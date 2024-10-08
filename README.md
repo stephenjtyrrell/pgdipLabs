@@ -67,7 +67,7 @@ To be run over <specify platform>
 
 # Meetings
 <<what meetings occur and when>>
-<<what is the social etiquette - no calls after X pm or before Y am, etc. Urgent can only be used when << rule/scenario>>
+<<what is the social etiquette - no calls after 5 pm or before 9 am, etc. Urgent can only be used when << rule/scenario>>
 Everyone has equal voice and valuable contribution.
 Keep your language and tone professional at all times.
 Be honest.
